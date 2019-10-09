@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.IDcard {
+}
+#card {
+	margin: auto;
+	padding: 10px;
+	height: 480px;
+	width: 300px;
+	border-radius: 15px;
+}
+#card {
+	background-color: #D17375;
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+}
+#card {
+	background-color: #CD9495;
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+}
+#pic {
+	background-color: #E3CDAA;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+	background-position: center 0%;
+	background-size: contain;
+	background-image: url(images/head5.png);
+	background-repeat: no-repeat;
+}
+#word {
+	margin: auto;
+	width: 60%;
+}
